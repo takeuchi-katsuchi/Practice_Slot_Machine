@@ -1,0 +1,2 @@
+# Practice_Slot_Machine
+ドットインストールの講座の模写
